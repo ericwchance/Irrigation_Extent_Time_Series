@@ -6,8 +6,11 @@ This could easily be adapted to other regions, if you wanted to. All you need is
 
 The basic workflow is as follows:
 1. determine thresholds on seasonal Max NDMI for set control points: 
-  A. Export values at control points.
-  B. organize them into 2 columns of irrigated and non irrigated values.
-  C. Put that data into matlab to get a threshold for each year. 
+
+   A. Export values at control points.
+
+   B. organize them into 2 columns of irrigated and non irrigated values.
+
+   C. Put that data into matlab to get a threshold for each year. 
 2. Apply those yearly thresholds to each year's data.
 3. Export desired information, such as the extent of irrigation by county or water right.
