@@ -15,4 +15,4 @@ The basic workflow is as follows:
 2. Apply those yearly thresholds to each year's data. /Irrigation_Extent_County_Export.js
 3. Export desired information, such as the extent of irrigation by county or water right.
 
-The main file you want to look at here is the /Irrigation_Extent_County_Export.js < https://github.com/ericwchance/Irrigation_Extent_Time_Series/blob/master/Irrigation_Extent_County_Export.js >. The Other files in here are just variations on that one, set to export different things. 
+The main file you want to look at here is the /Irrigation_Extent_County_Export.js https://github.com/ericwchance/Irrigation_Extent_Time_Series/blob/master/Irrigation_Extent_County_Export.js. The other files in here are just variations on that one, set to export different things. 
